@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kadircankinsiz@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YEFeruVfbkplXNXQhVsxJIii1LJms-fU/view?usp=sharing](https://drive.google.com/file/d/1YEFeruVfbkplXNXQhVsxJIii1LJms-fU/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1YEFeruVfbkplXNXQhVsxJIii1LJms-fU/view?usp=sharing)
 
 - ⚡ Fun fact **I learn fast as much lightning mcqueen(KaChow)⚡⚡⚡**
 
