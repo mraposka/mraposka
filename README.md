@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdulkadir Can Kinsiz</h1>
-<h3 align="center">A passionate software developer that develops everything</h3>
+<h3 align="center">A passionate software developer that develops everything</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mraposka&label=Profile%20views&color=0e75b6&style=flat" alt="mraposka" /> </p>
 
 - 🔭 I’m currently working on [Xamarin_Tabir](https://github.com/mraposka/Xamarin_Tabir)
 
-- 📫 How to reach me **kadircankinsiz@gmail.com**
+- 📫 You can reach me on [Instagram](https://www.instagram.com/mraposka)
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1YEFeruVfbkplXNXQhVsxJIii1LJms-fU/view?usp=sharing)
 
