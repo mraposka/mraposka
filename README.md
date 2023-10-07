@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mraposka&label=Profile%20views&color=0e75b6&style=flat" alt="mraposka" /> </p>
 
-- 🔭 I’m currently working on [Drema](https://drema.info)
+- 🔭 I’m currently working on [Drema](https://drema.info) and [Cure-Shot](https://github.com/mraposka/Cure-Shot)
   
 - 📫 You can reach me on [Instagram](https://www.instagram.com/mraposka)
 
