@@ -7,7 +7,7 @@
   
 - 📫 You can reach me on [Instagram](https://www.instagram.com/mraposka)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/12le1rboFH8t9VBNa68yvg6LQlIWMm745/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1YjRLQfmu8IPBxp70XIoTF-yZpEecOOzd/view?usp=sharing)
 
 - ⚡ Fun fact **I learn fast as much lightning mcqueen(KaChow)⚡⚡⚡**
 
