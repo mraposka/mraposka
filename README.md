@@ -1,4 +1,4 @@
-<h2 align="left">I'm the Fastest and most curious software developer in the world ka-choowww!</h2>
+<h2 align="left">I'm the fastest and most curious software developer in the world ka-choowww!</h2>
 
 ###
 
