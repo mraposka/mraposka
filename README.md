@@ -1,4 +1,5 @@
-<h2 align="left">I'm the fastest and most curious software developer in the world ka-choowww!</h2>
+<h2 align="left">I'm the fastest and most curious software developer in the world ka-choowww!</h2> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mraposka&label=Profile%20views&color=0e75b6&style=flat" alt="mraposka" /> </p>
 
 ###
 
@@ -7,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mraposka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
