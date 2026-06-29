@@ -1,13 +1,22 @@
 <h2 align="left">I'm the fastest and most curious software developer in the world ka-choowww!</h2> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mraposka&label=Profile%20views&color=0e75b6&style=flat" alt="mraposka" /> </p>
-
-###
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mraposka&label=Profile%20views&color=0e75b6&style=flat" alt="mraposka" /> 
+  <br><br><a href="./Abdulkadir_Can_Kinsiz.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=readme&label=&color=2E8B57&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cv logo" />
+  </a>
+</p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mraposka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mraposka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="kadircankinsiz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/kadircankinsiz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/8357327/abdulkadir-can-kinsiz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
 </div>
 
+###
 
 
 <div align="left">
@@ -66,19 +75,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="kadircankinsiz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/kadircankinsiz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/8357327/abdulkadir-can-kinsiz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
 </div>
 
